@@ -1,0 +1,60 @@
+/* COMPLETED USING DIRECTION FOR CSS*/
+
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+header {
+  background-image: url(./img/Records.jpg);
+}
+
+#banner2, #banner3, #banner4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  background-color: #ef8354;
+}
+
+img {
+  width: 500px;
+}
+
+h3, p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+span {
+  font-weight: bold;
+}
+
+#banner3 {
+  background-color: #0e7c7b;
+}
+
+#banner4 {
+  background-color: #9c528b
+}
+
+a {
+  color: #ef8354;
+}
+
+a:visited {
+  color: #0e7c7b;
+}
+
+a:hover {
+  color: #9c528b;
+}
+
+footer {
+  text-align: center;
+}
